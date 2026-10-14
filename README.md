@@ -70,7 +70,7 @@
 
 ## 🔥 Streak Stats
 
-![GitHub Streak]([https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight](https://github.com/bhawani2005))
+![GitHub Streak](https://streak-stats.demolab.com/?user=bhawani2005&theme=dark)
 
 ---
 
