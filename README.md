@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-- 🌱 Currently learning **Advanced Java, Spring Boot**
+- 🌱 Currently learning **Spring Boot**
 - 💻 Practicing **Data Structures & Algorithms**
 - 🔭 Working on **Full Stack Java Projects**
 - 🎯 Goal: Become a **Professional Java Backend Developer**
@@ -26,20 +26,27 @@
 ### Web Technologies
 - HTML
 - CSS
+- Bootstrap
 - JavaScript
 
 ### Backend
 - Java
+- JDBC
 - Servlets
 - JSP
+- Spring core
+- Spring JDBC
+- Hibernate
 - Spring Boot (Learning)
 
 ### Database
 - MySQL
+- Oracal
 
 ### Tools
 - Git
 - GitHub
+- Lambok
 - VS Code
 - Eclipse
 
@@ -47,7 +54,7 @@
 
 ## 📂 Projects
 
-### 📌 Foodi – Food Ordering System
+### 📌 Foodie – Food Ordering System
 - Built using **Java, JSP, Servlet, MySQL, Thymeleaf**
 - Helps User to order food.
 - Admin can manage Food, Order, User 
